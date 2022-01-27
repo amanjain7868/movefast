@@ -1,9 +1,9 @@
 This app that will calculate the shortest distance from different spot
 Using TomTom Map SDK for Web
 
-The route into account
-The traffic on the roads into account.
-The traffic incidents on the roads into account
+# The route into account
+### The traffic on the roads into account.
+### The traffic incidents on the roads into account
 
 
 
