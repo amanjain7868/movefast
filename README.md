@@ -4,7 +4,7 @@ Using TomTom Map SDK for Web
 # The route into account
 ### The traffic on the roads into account.
 ### The traffic incidents on the roads into account
-
+![]img/image2.png
 
 
 
