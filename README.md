@@ -4,7 +4,12 @@ Using TomTom Map SDK for Web
 # The route into account
 ### The traffic on the roads into account.
 ### The traffic incidents on the roads into account
-![]img/image2.png
+![](img/image3.png)
+### (This is the defined origin which could be changed by grabbing the pointer or adding latitude and longitude)
+![](img/image2.png)
+### (shortest distance path between places are depicted by black lines )
+
+
 
 
 
